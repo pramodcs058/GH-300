@@ -124,6 +124,9 @@ https://docs.github.com/en/copilot/get-started/best-practices
 ### AI Model Comparison
 https://docs.github.com/en/copilot/reference/ai-models/model-comparison
 
+### GitHub Copilot Plans
+[https://docs.github.com/en/copilot/concepts/billing](https://github.com/features/copilot/plans)
+
 ### Billing
 https://docs.github.com/en/copilot/concepts/billing
 

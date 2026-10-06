@@ -44,7 +44,7 @@ Copilot uses this file to understand:
 
 ---
 
-# LAB 1: Creating the Copilot Instructions File
+# Task-1: Creating the Copilot Instructions File
 
 ## Step 1: Create Folder Structure
 
@@ -87,7 +87,7 @@ Add the following content:
 
 ---
 
-# LAB 2: Backend-Specific Instructions
+# Task-2: Backend-Specific Instructions
 
 ## Add Backend Rules
 
@@ -136,7 +136,7 @@ Create a GET API to fetch orders by customerId
 
 ---
 
-# LAB 3: Frontend-Specific Instructions
+# Task-3: Frontend-Specific Instructions
 
 ## Add Frontend Rules
 
@@ -183,7 +183,7 @@ Create a submit button component
 
 ---
 
-# LAB 4: QA / Testing Instructions
+# Task-4: QA / Testing Instructions
 
 ## Add Testing Rules
 
@@ -222,7 +222,7 @@ Generate unit tests for fee calculation logic
 
 ---
 
-# LAB 5: Advanced Instructions (Enterprise Use)
+# Task-5: Advanced Instructions (Enterprise Use)
 
 ## Add Enterprise Constraints
 

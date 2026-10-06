@@ -1,4 +1,4 @@
-# GitHub Copilot Instructions File – Hands-on Lab
+# Lab-2: GitHub Copilot Instructions File – Hands-on Lab
 
 ## Lab Title
 

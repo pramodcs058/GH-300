@@ -1,4 +1,4 @@
-# Lab: Develop with AI-Powered Code Suggestions Using GitHub Copilot and VS Code
+# Lab-1: Develop with AI-Powered Code Suggestions Using GitHub Copilot and VS Code
 
 ## Objective
 

@@ -105,27 +105,7 @@ Understand:
 
 ---
 
-## Prompt 2: Inline Chat in Terminal (Cntrl + i --> To Activate Copilot Chat)
-
-Use **Inline Chat in the VS Code terminal**.
-
-**Prompt:**
-
-> Hey Copilot, how can I create and publish a new Git branch called "accelerate-with-copilot"?
-
-### Goal
-
-Use Copilot to generate the Git commands required to:
-
-1. Create the branch.
-2. Switch to the branch.
-3. Publish the branch to the remote repository.
-
-Review the commands before running them.
-
----
-
-## Prompt 3: Analyze a Bug Using `#codebase` (Ask Mode)
+## Prompt 2: Analyze a Bug Using `#codebase` (Ask Mode)
 
 Use **Copilot Chat** with the `#codebase` context.
 
@@ -147,7 +127,7 @@ Ask Copilot to:
 
 ---
 
-## Prompt 4: Add New Activities (In the src/app.py file --> activate Inline Chat CNTRL + i)
+## Prompt 3: Add New Activities (In the src/app.py file --> activate Inline Chat CNTRL + i)
 
 Use Copilot to add the following activities to the application:
 
@@ -169,7 +149,7 @@ Verify that:
 
 ---
 
-## Prompt 5: Add Participants to Activity Cards (Agent Mode)
+## Prompt 4: Add Participants to Activity Cards (Agent Mode)
 
 **Prompt:**
 
@@ -191,7 +171,7 @@ Register a participant for an activity and confirm that the participant appears 
 
 ---
 
-## Prompt 6: Add an Unregister/Delete Feature (Agent Mode)
+## Prompt 5: Add an Unregister/Delete Feature (Agent Mode)
 
 Use `#codebase` context.
 
@@ -216,7 +196,7 @@ Implement the ability to:
 
 ---
 
-## Prompt 7: Investigate the Page Refresh Bug (Agent Mode)
+## Prompt 6: Investigate the Page Refresh Bug (Agent Mode)
 
 **Prompt:**
 
